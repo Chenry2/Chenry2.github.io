@@ -1,14 +1,15 @@
 body {
-            background-color: lightblue;
+            background-color: #333333;
         }
         
         ul li {
-            display: inline;
-            margin-left: 10px;
+            text-align: center;
+            display: inline-block;
+            margin: 0 auto;
         }
         
         .container {
-            background-color: white;
+            background-color: darkgray;
             margin-top: 30px;
             margin-bottom: 30px;
             margin-left: 30px;
