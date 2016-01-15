@@ -2,11 +2,11 @@ body {
             background-color: #333333;
         }
         
-        ul li {
-            width: 45%;
-            text-align: center;
+        .ulist {
             display: inline-block;
+            list-style:none outside none;
             margin: 0 auto;
+            padding: 0;
         }
         
         .container {
