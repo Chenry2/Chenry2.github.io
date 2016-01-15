@@ -3,6 +3,7 @@ body {
         }
         
         ul li {
+            width: 45%;
             text-align: center;
             display: inline-block;
             margin: 0 auto;
