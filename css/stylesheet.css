@@ -2,12 +2,19 @@ body {
             background-color: #333333;
         }
         
-        .ulist {
-            display: inline-block;
-            list-style:none outside none;
-            margin: 0 auto;
-            padding: 0;
+        .list {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
+        
+        .list ul li{
+            
+            display: inline;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
         
         .container {
             background-color: darkgray;
