@@ -3,6 +3,14 @@
            
         }
         
+    .wrapper {
+    position:absolute;
+    top:30%;
+    left:50%;
+    margin:-100px 0 0 -150px;
+    border: 1px solid black;
+    padding-bottom: 10px;
+    }
         
     a:link {
     color: black;
