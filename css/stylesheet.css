@@ -15,7 +15,7 @@
     }
 
     a:hover {
-    font-size: 110%;
+    color: white;
     }
 
     a:active {
@@ -56,13 +56,18 @@
         
         .list ul li{
             font-family: Georgia;
-            background-color: 6B6A6A;
+            background-color: #6B6A6A;
             padding: 2px;
             display: inline;
             margin-left: auto;
             margin-right: auto;
-            border: 2px solid darkgray;
-            border-radius: 7px;
+            border: 1px solid black;
+        }
+        
+        .list ul li:hover {
+            cursor: pointer;
+            border-color: white;
+            color: white;
         }
         
         
