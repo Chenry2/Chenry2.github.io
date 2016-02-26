@@ -1,8 +1,10 @@
     body {
             background-color: #333333;
+            color: #FFFFFF;
         }
         
-    .index_body {
+   
+   
             
     a:link {
     color: black;
@@ -70,25 +72,9 @@
             color: white;
         }
             
-    }
+
     
     
-    .subpage_body {
-        a:link {
-            color: #FFFFFF;
-            text-decoration: none;
-        }
-        
-        a:hover{
-            
-            text-decoration: underline;
-        }
-        
-        a:visited{
-            color: #FFFFFF;
-            text-decoration: none;
-        }
-    }
         
     
         
