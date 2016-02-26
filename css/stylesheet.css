@@ -1,12 +1,10 @@
     body {
             background-color: #333333;
+            color: #FFFFFF;
            
         }
         
         
-    .subpage_body{
-        color: #FFFFFF;
-    }
         
     a:link {
     color: black;
